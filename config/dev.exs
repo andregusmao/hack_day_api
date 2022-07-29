@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :hack_day_api, HackDayApi.Repo,
-  username: "hack_day_sa",
-  password: "HackDay2022",
+  username: "sa",
+  password: "AlBg@240600",
   hostname: "localhost",
   database: "hack_day_api_dev",
   stacktrace: true,
